@@ -1601,11 +1601,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DemoExam2025-Modul-4-master\\AvaloniaApplication1\\AvaloniaApplication1.csproj",
+      "projectUniqueName": "C:\\DemoExam2025-Modul-4-master11111\\AvaloniaApplication1\\AvaloniaApplication1.csproj",
       "projectName": "AvaloniaApplication1",
-      "projectPath": "C:\\DemoExam2025-Modul-4-master\\AvaloniaApplication1\\AvaloniaApplication1.csproj",
+      "projectPath": "C:\\DemoExam2025-Modul-4-master11111\\AvaloniaApplication1\\AvaloniaApplication1.csproj",
       "packagesPath": "C:\\Users\\Татьяна\\.nuget\\packages\\",
-      "outputPath": "C:\\DemoExam2025-Modul-4-master\\AvaloniaApplication1\\obj\\",
+      "outputPath": "C:\\DemoExam2025-Modul-4-master11111\\AvaloniaApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Татьяна\\AppData\\Roaming\\NuGet\\NuGet.Config"
